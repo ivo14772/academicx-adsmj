@@ -1,5 +1,5 @@
 # academicx-adsmj
-Leergang [**NCOI**][1] module _Ontwerpen en Programmeren_
+Leergang **[NCOI]([1])** module _Ontwerpen en Programmeren_
 
 Per Github guidelines a `ReadMe` text to initialize this repository.
 
