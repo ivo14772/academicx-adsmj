@@ -21,12 +21,12 @@ Version-control en back-up voor mijn leergang module 'Ontwerpen en Programmeren'
 
 #### Folder-layout
 - root
-    - Chapter
-        -Excersize(s)
+  - Chapter
+    - Excersize(s)
         
 #### NetBeans Project Group(s)
 - Hoofdstuk 'nummer' `hfst##`
-    -Opdracht(-en) 'nummer' `opdr##`
+  -Opdracht(-en) 'nummer' `opdr##`
 
 #### Gitignore(s)
 - Operation filesystem specific
