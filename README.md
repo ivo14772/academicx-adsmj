@@ -1,5 +1,5 @@
 # academicx-adsmj
-Leergang NCOI module _Ontwerpen en Programmeren_
+Leergang [**NCOI**][1] module _Ontwerpen en Programmeren_
 
 Per Github guidelines a `ReadMe` text to initialize this repository.
 
@@ -34,3 +34,5 @@ Version-control en back-up voor mijn leergang module _Ontwerpen en Programmeren_
 - Operation filesystem specific
 - NetBeans `nbproject/` folder(s)
 - Build-location(s) i.e. 'out' 'build'
+
+[1](https://www.ncoi.nl/opleiding/HBO-opleidingen-HBO-Informatica-2-jaar.html)
