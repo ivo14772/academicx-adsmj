@@ -10,7 +10,7 @@ Version-control en back-up voor mijn leergang module 'Ontwerpen en Programmeren'
 #### Development Environment
 * OS: Linux ([Arch](https://wiki.archlinux.org)/[Manjaro](https://wiki.manjaro.org))
 * DE: LXQt
-* IDE: NetBeans 8.2 (JavaSE)
+* IDE: [NetBeans 8.2](https://netbeans.org/features/java/javase.html) (JavaSE)
 * Char-set: utf8
 * Line-End: Unix/OS X (LF)
 
